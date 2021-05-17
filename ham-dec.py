@@ -127,7 +127,7 @@ def menu():
     print ''
     print 47 * '-'
     print ' \x1b[1;91m          PLEASE PRAY FOR PALASTINE'
-    print '         Jo Ander Se Bahar Jaisa Ho'
+    print '         WE STAND WITH PALASTUNE'
     print '\x1b[1;97m'
     print 47 * '-'
     print ''
